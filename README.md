@@ -5,7 +5,7 @@ Este é um projeto Next.js iniciado com create-next-app.
 
 ![App Screenshot](./public/img/mac.png)
 
-Acesse o [site](https://nextjs.orghttps://land-page-dr-karolina.vercel.app/)
+Acesse o [site](https://land-page-dr-karolina.vercel.app/)
 
 Tecnologias Utilizadas:
 
