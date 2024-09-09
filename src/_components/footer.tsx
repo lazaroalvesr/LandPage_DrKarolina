@@ -25,7 +25,7 @@ export const FooterPage = () => {
                 </FooterNav>
                 <DivIconsSocialMedia>
                     <IconSocialMedia src="/icons/facebook.svg" alt="Icone Facebook" />
-                    <IconSocialMedia src="/icons/instagram.svg" alt="Icone Instagram" />
+                    <IconSocialMedia src="/icons/Instagram.svg" alt="Icone Instagram" />
                     <IconSocialMedia src="/icons/linkedin.svg" alt="Icone Lindkedin" />
                     <IconSocialMedia src="/icons/youtube.svg" alt="Icone youtube" />
                 </DivIconsSocialMedia>
